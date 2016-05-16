@@ -1,0 +1,35 @@
+                  word  length consonant.seq  seq.uniqueness.idx  alt.pattern  \
+0         berpenumpang      12      brpnmpng                   1            0   
+1               gabung       6          gbng                   3            0   
+2              jaluran       7          jlrn                   2            1   
+3   disfungsionalisasi      18    dsfngsnlss                   1            0   
+4               murung       6          mrng                   7            0   
+5            kepepalan       9         kppln                   1            1   
+6           terkencing      10       trkncng                   2            0   
+7            melompong       9        mlmpng                   3            0   
+8               godaan       6           gdn                   3            0   
+9         mengerudungi      12       mngrdng                   2            0   
+10             penapis       7          pnps                   2            1   
+11       menggerayangi      13      mnggryng                   2            0   
+12            bergulir       8         brglr                   4            0   
+13              jamiah       6           jmh                   5            0   
+14             sambung       7         smbng                   6            0   
+
+    vow.sep.pattern  
+0                 1  
+1                 1  
+2                 1  
+3                 0  
+4                 1  
+5                 1  
+6                 1  
+7                 1  
+8                 0  
+9                 1  
+10                1  
+11                1  
+12                1  
+13                0  
+14                1  
+
+[15 rows x 6 columns]

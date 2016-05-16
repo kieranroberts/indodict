@@ -1,0 +1,25 @@
+                  word  length consonant.seq  seq.uniqueness.idx  alt.pattern  \
+0         berpenumpang      12      brpnmpng                   1            0   
+3   disfungsionalisasi      18    dsfngsnlss                   1            0   
+5            kepepalan       9         kppln                   1            1   
+15          berstandar      10       brstndr                   1            0   
+16            pemasang       8         pmsng                   1            0   
+17          sepertujuh      10        sprtjh                   1            0   
+19          berswadaya      10        brswdy                   1            0   
+20      diperdagangkan      14     dprdgngkn                   1            0   
+21            misahkan       8         mshkn                   1            0   
+23      waalaikumsalam      14       wlkmslm                   1            0   
+
+    vow.sep.pattern  
+0                 1  
+3                 0  
+5                 1  
+15                1  
+16                1  
+17                1  
+19                1  
+20                1  
+21                1  
+23                0  
+
+[10 rows x 6 columns]
